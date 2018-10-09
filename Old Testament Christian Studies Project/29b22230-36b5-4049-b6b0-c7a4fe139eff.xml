@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ActiveConfig="default" Platform="Windows" Runtime="VM" Device="Default">
+	<Desktop x="-13" y="-13" width="2736" height="1779" id="19" title="Old Testament Christian Studies Project - GameMaker Studio 2" windowState="Maximized">
+		<Workspaces>
+			<Workspace active="True" chain="True" title="Workspace 1" localise_title="Workspace_TabTitle" localise_arguments="[&#xD;&#xA;    &quot;1&quot;&#xD;&#xA;]" workspace_offset="[-402, 135]" workspace_scale="1">
+				<Module Command="open_object_editor">
+					<ObjectEditor objectId="5350fbb8-3acf-4e0d-b06d-f7d0dfa3d05e" objectName="obj_text1" eventsOpen="true" parentOpen="false" physicsOpen="false" physicsEditorOpen="false" propertiesOpen="false" activeWindow="editor">
+						<WorkspaceChain left="-39dpi_px" top="704dpi_px" />
+						<DocumentWindow columns="1" fullscreen="False" activeTab="1" isActive="False" w="900dpi_px" h="600dpi_px" linkIndex="-1">
+							<Script column="0" file="${project_dir}\objects\obj_text1\Create_0.gml" resource="5350fbb8-3acf-4e0d-b06d-f7d0dfa3d05e" subResource="f05a94a9-d640-4a57-a3b5-359c6e151bac" overridden_title="False" view_readonly="False" />
+							<Script column="0" file="${project_dir}\objects\obj_text1\Step_0.gml" resource="5350fbb8-3acf-4e0d-b06d-f7d0dfa3d05e" subResource="3285f9a9-1003-4628-89c4-6f9104c5fc1f" overridden_title="False" view_readonly="False" />
+							<Script column="0" file="${project_dir}\objects\obj_text1\Draw_0.gml" resource="5350fbb8-3acf-4e0d-b06d-f7d0dfa3d05e" subResource="67770715-d3b4-440e-a25a-54637722e062" overridden_title="False" view_readonly="False" />
+						</DocumentWindow>
+					</ObjectEditor>
+				</Module>
+				<Module Command="open_object_editor">
+					<ObjectEditor objectId="d4b94afb-93b8-4f1f-aec2-3c689e9f5e08" objectName="obj_light" eventsOpen="true" parentOpen="false" physicsOpen="false" physicsEditorOpen="false" propertiesOpen="false" activeWindow="editor">
+						<WorkspaceChain left="40dpi_px" top="79dpi_px" />
+						<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="600dpi_px" linkIndex="-1">
+							<Script column="0" file="${project_dir}\objects\obj_light\Mouse_4.gml" resource="d4b94afb-93b8-4f1f-aec2-3c689e9f5e08" subResource="a965c98e-9bbd-4603-95e5-876aac2fef76" overridden_title="False" view_readonly="False" />
+						</DocumentWindow>
+					</ObjectEditor>
+				</Module>
+			</Workspace>
+			<Workspace active="False" chain="False" title="rm_creation" localise_title="" workspace_offset="[0, 0]" workspace_scale="1">
+				<Module Command="open_room_editor" WorkspaceOwner="true">
+					<Room id="5036d47e-1bbe-42fb-ab6e-166e311af522">
+						<RoomEditArea>
+							<PanArea zoom="1.209635" pan="[-545.7569, -0.8267212]" />
+							<Properties />
+							<Selected>
+								<Layer GUID="ca496345-46b3-4d1e-8a74-ce86d6ea4cca" />
+								<Item GUID="fa03407f-e7f2-4ddc-97bc-8132c6dea2fe" />
+							</Selected>
+						</RoomEditArea>
+					</Room>
+				</Module>
+			</Workspace>
+		</Workspaces>
+		<Dock state="Expanded" type="eRight" restore_size="305dpi_px" active_tab="0">
+			<DockTab localise_title="ResourceTree_Title" cell_sizes="[894,105]" layout_id="dock_tab_1" layout_guid="9d364fc7-0db9-4887-a545-5b59ff121462">
+				<Module Command="open_resource_tree">
+					<ResourceWindow left="0px" right="" top="0px" bottom="" width="400px" height="600px" flags="CloseButton, ResizeButton" title="Resources" localise_title="ResourceTree_Title" active_view="Default" Scale="100" />
+				</Module>
+				<Module Command="open_recent_windows">
+					<RecentWindowsWindow left="" right="" top="" bottom="" width="400dpi_px" height="100dpi_px" flags="Default" title="Recent Windows" localise_title="recentwindows_title" />
+				</Module>
+			</DockTab>
+		</Dock>
+		<Dock state="Expanded" type="eBottom" restore_size="199.8dpi_px" active_tab="0">
+			<DockTab localise_title="OutputPanel_Output" cell_sizes="[1000]" layout_id="dock_tab_1" layout_guid="55632494-5e7a-46b8-b6aa-adbaac4573f7">
+				<Module Command="open_output_panel">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Output" localise_title="OutputPanel_Title" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="OutputPanel_SearchResults" cell_sizes="[1000]" layout_id="dock_tab_2" layout_guid="e928b9b5-ac89-4977-b41b-c253f74a8201">
+				<Module Command="open_search_output_panel">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Search Results" localise_title="OutputPanel_SearchResults" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="OutputPanel_SourceControl" cell_sizes="[1000]" layout_id="dock_tab_3" layout_guid="28bd8731-2491-42d5-8eb1-8cbc0eb367a6">
+				<Module Command="open_sc_output_panel">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Source Control" localise_title="OutputPanel_SourceControl" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="Breakpoints" cell_sizes="[1000]" layout_id="dock_tab_4" layout_guid="dd7965c3-de5f-4348-a4ef-10b38efb8705">
+				<Module Command="open_breakpoint_mgr">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Breakpoints" localise_title="Breakpoints" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="CompileErrors" cell_sizes="[1000]" layout_id="dock_tab_5" layout_guid="874e1574-9535-4315-b8e4-76edecf7693b">
+				<Module Command="show_compile_errors">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Compile Errors" localise_title="CompileErrors" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="SyntaxErrors" cell_sizes="[1000]" layout_id="dock_tab_6" layout_guid="e19e3d1a-4e12-4a7e-aafb-a631342f0034">
+				<Module Command="show_syntax_errors">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Syntax Errors" localise_title="SyntaxErrors" />
+				</Module>
+			</DockTab>
+		</Dock>
+	</Desktop>
+	<Modules>
+		<YoYoStudio.Plugins.CorePlugins.RoomEditorModule>
+			<RoomEditor />
+		</YoYoStudio.Plugins.CorePlugins.RoomEditorModule>
+	</Modules>
+</Project>
