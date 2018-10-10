@@ -170,7 +170,7 @@
             "Key": "a350e5a5-2079-4731-8b84-ec5b9678cc17",
             "Value": {
                 "id": "095db9d3-c604-47dc-a54a-a226c1c93f49",
-                "resourcePath": "sprites\\spr_empty_earth\\spr_empty_earth.yy",
+                "resourcePath": "sprites\\spr_earth\\spr_earth.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -187,6 +187,14 @@
             "Value": {
                 "id": "da545ae6-41aa-4991-bace-7a3760e2b8eb",
                 "resourcePath": "objects\\obj_exit\\obj_exit.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "af818680-be49-4600-8e32-16c53d7b02dd",
+            "Value": {
+                "id": "e5c0c5ff-8155-44c6-b2a3-219a287bd77c",
+                "resourcePath": "objects\\obj_earth\\obj_earth.yy",
                 "resourceType": "GMObject"
             }
         },
