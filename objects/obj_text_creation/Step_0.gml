@@ -12,13 +12,14 @@ else { //if current character is more than the amount in the current message
             message_draw = ""; //clear the drawn text
         }
         else {
-				if (message_current < message_end) && obj_light.image_alpha >= 1 { //if there are more messages left to show (0 -> 6, in our case)
+				if (message_current < message_end) && obj_light.image_alpha >= 1 && message_current = 2{ //if there are more messages left to show (0 -> 6, in our case)
 					message_current += 1; //increase the message by 1
 					message_length = string_length(message[message_current]);  //get the new character length for message
 					characters = 0; //set the characters back to 0
 					message_draw = ""; }//clear the drawn text //if our messages are done (we reach 6, in our case)...
 				else 
 				{ instance_destroy(); //destroy the object
+					room_goto(rm_fall);
 				}
         }
     }
