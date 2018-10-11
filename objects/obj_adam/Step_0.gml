@@ -1,11 +1,6 @@
-if keyboard_check(vk_left)
+if keyboard_check(vk_left) != true && keyboard_check(vk_right) != true
 {
-	x -= 10;
-}
-
-if keyboard_check(vk_right)
-{
-	x += 10;
+	sprite_index = spr_adam
 }
 
 if keyboard_check(vk_down)
