@@ -1,4 +1,5 @@
-//write your messages in an array, starting at 0, like so
+if room = rm_creation
+{
 message[0] = "In the beginning, there was God.";
 message[1] = "The only other thing than God was darkness; darkness and chaos.";
 message[2] = "So God said 'Let there be Light.' And there was light.";
@@ -10,9 +11,20 @@ message[7] = "He created them in his own image so they could care for his creati
 message[8] = "He called them Adam and Eve, and He called them GOOD.";
 message[9] = "He made a garden for them to care for,";
 message[10] = "And he rested.";
+message_end = 10;
+}
+if room = rm_fall
+{
+message[0] = "In the Garden, Adam and Eve were approached by the serpent.";
+message[1] = "He said that if they took fruit from the Tree of the Knowledge of Good and Evil, they would be like God.";
+message[2] = "They ate from the tree, disobeying God and bringing sin into the world.";
+message[3] = "They were then shameful of their naked bodies,";
+message[4] = "And when God came,";
+message[5] = "They hid.";
+message_end = 5;
+}
 
 message_current = 0; //0 is the first number in our array, and the message we are currently at
-message_end = 10; //10 is the last number in our array
 message_draw = ""; //this is what we 'write' out. It's blank right now
 increase = 0.5; //the speed at which new characters are added
 characters = 0; //how many characters have already been drawn
