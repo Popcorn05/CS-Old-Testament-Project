@@ -16,12 +16,13 @@ message_end = 10;
 if room = rm_fall
 {
 message[0] = "In the Garden, Adam and Eve were approached by the serpent.";
-message[1] = "He said that if they took fruit from the Tree of the Knowledge of Good and Evil, they would be like God.";
-message[2] = "They ate from the tree, disobeying God and bringing sin into the world.";
-message[3] = "They were then shameful of their naked bodies,";
-message[4] = "And when God came,";
-message[5] = "They hid.";
-message_end = 5;
+message[1] = "He said that if they took fruit from the Tree of the Knowledge of Good and Evil,";
+message[2] = "They would become like God."
+message[3] = "They ate from the tree, disobeying God and bringing sin into the world.";
+message[4] = "They were then shameful of their naked bodies,";
+message[5] = "And when God came, they hid";
+message[6] = ""; 
+message_end = 6;
 }
 
 message_current = 0; //0 is the first number in our array, and the message we are currently at
