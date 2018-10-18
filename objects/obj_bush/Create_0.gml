@@ -7,3 +7,5 @@ y -= 8;
 x -= random_range(64, 1000);
 
 layer = layer_get_id("layer_hide");
+
+text = 0

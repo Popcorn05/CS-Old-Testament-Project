@@ -14,3 +14,12 @@ else
 
 x = clamp(x, 0, room_width)
 y = clamp(y, 0, room_height)
+
+if position_meeting(x, y, obj_bush)
+{
+	touch = 1
+}
+if !position_meeting(x, y, obj_bush)
+{
+	touch = 0
+}

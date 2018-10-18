@@ -5,3 +5,4 @@ image_alpha = 0
 move = 0
 direction = 0
 set_alarm = 0
+discover = 0
