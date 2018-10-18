@@ -12,6 +12,7 @@ message[8] = "He called them Adam and Eve, and He called them GOOD.";
 message[9] = "He made a garden for them to care for,";
 message[10] = "And he rested.";
 message_end = 10;
+global.text_done = 0
 }
 if room = rm_fall
 {
