@@ -1,6 +1,6 @@
 if move = 1
 {
-	speed = 3
+	speed = 4
 }
 if x = 10
 {
@@ -11,7 +11,8 @@ if x = 1590
 	direction = 180
 }
 
-if global.text_done = 1
+if obj_white_box.image_alpha = 0 && set_alarm = 0
 {
-	alarm[0] = 150;
+	alarm[0] = 150
+	set_alarm = 1
 }

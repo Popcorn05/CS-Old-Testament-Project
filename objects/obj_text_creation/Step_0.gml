@@ -43,8 +43,6 @@ else { //if current character is more than the amount in the current message
             message_draw = ""; //clear the drawn text
         }
         else { //if our messages are done (we reach 6, in our case)...
-            global.text_done = 1
-			instance_create_layer(142, 80, obj_text, "layer_player")
 			instance_destroy(); //destroy the object
         }
     }
