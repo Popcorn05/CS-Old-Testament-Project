@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "27d36e74-82a6-45cf-a163-0a1474e6d15a",
+            "Value": {
+                "id": "5b6a9bb4-5b69-462f-b16d-9358d89d10d0",
+                "resourcePath": "sprites\\spr_abraham_stab\\spr_abraham_stab.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "30dccac5-f990-44ce-8ce3-0144ed27d4b7",
             "Value": {
                 "id": "f937afbe-4a37-4efb-8113-5b32c514b6c6",
@@ -252,6 +260,14 @@
                 "id": "4197cdd1-15c4-494a-bc6e-38b8376a35ee",
                 "resourcePath": "fonts\\fnt_story\\fnt_story.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "932a48b5-e7f8-4cb5-a947-fe30371ad568",
+            "Value": {
+                "id": "039db95f-044e-4fd4-b994-28861e3b1e37",
+                "resourcePath": "sprites\\spr_angel\\spr_angel.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
