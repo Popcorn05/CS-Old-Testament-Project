@@ -60,3 +60,9 @@ y += vsp;
 
 x = clamp(x, 0, room_width)
 y = clamp(y, 0, room_height)
+
+if obj_text_nation.nexttext = 1
+{
+	sprite_index = spr_abraham
+	obj_nation_box.image_alpha = 1
+}
