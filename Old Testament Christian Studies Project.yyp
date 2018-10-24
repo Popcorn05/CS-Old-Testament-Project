@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "0d032353-054d-4556-b713-4238758cb7e1",
+            "Value": {
+                "id": "c6571e38-f285-40c4-91a5-f34cf737fbee",
+                "resourcePath": "rooms\\rm_redeemed\\rm_redeemed.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "0e10dbdc-56f4-48ad-b83f-7ad036a0023d",
             "Value": {
                 "id": "f90a496d-be4d-4ef7-9144-7a346bb5dbc2",
@@ -255,6 +263,14 @@
             }
         },
         {
+            "Key": "6454d213-6909-4ae4-b126-abd03ccd0053",
+            "Value": {
+                "id": "47e96093-b356-48b0-a35e-827e1b4db0b8",
+                "resourcePath": "views\\6454d213-6909-4ae4-b126-abd03ccd0053.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "6a166f4a-81c2-45bb-a02e-97d363d3beb2",
             "Value": {
                 "id": "a6eff6e1-c0d6-4cd2-9e80-721da2f28d95",
@@ -287,11 +303,27 @@
             }
         },
         {
+            "Key": "84dd0a30-fb67-457b-a47a-ac7272a6f429",
+            "Value": {
+                "id": "c9c6224b-244c-49bb-8ae4-eb87e36bfe67",
+                "resourcePath": "views\\84dd0a30-fb67-457b-a47a-ac7272a6f429.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "905b6c2f-b3e7-463d-9092-c873cc86912f",
             "Value": {
                 "id": "30ad64e2-993c-452b-b48e-84591d9a9124",
                 "resourcePath": "views\\905b6c2f-b3e7-463d-9092-c873cc86912f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "92918136-15d8-44a8-b13f-7a47c5c12f37",
+            "Value": {
+                "id": "ac8a7830-6bc4-4746-b0d6-cc9b51cb13e5",
+                "resourcePath": "sprites\\spr_river\\spr_river.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -338,7 +370,7 @@
             "Key": "9ddb774b-99d5-4b54-9c66-073de174d56e",
             "Value": {
                 "id": "3c59af9c-01cd-4bcf-9f2c-d2126d5d1aed",
-                "resourcePath": "objects\\obj_white_box\\obj_white_box.yy",
+                "resourcePath": "objects\\obj_fall_box\\obj_fall_box.yy",
                 "resourceType": "GMObject"
             }
         },

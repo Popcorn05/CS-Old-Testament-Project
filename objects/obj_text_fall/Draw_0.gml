@@ -1,4 +1,4 @@
- if obj_white_box.text2 = 1
+  if obj_white_box.text2 = 1
 {
 	view_visible[0] = 0
 	view_visible[1] = 1
@@ -7,7 +7,7 @@
 	draw_text(x, y + 200, "God banished them from the Garden, keeping his word. This was 'The Fall'.")
 }
 
-if keyboard_check_pressed(ord("Z")) && obj_white_box.text2 = 1
+if keyboard_check_pressed(ord("Z")) && obj_fall_box.text2 = 1
 {
 	room_goto_next()
 }

@@ -53,7 +53,7 @@ if room = rm_fall
 {
 	if message_current = message_end
 	{
-		obj_white_box.image_alpha = 0
+		obj_fall_box.image_alpha = 0
 		view_visible[0] = 1
 		view_visible[1] = 0
 	}

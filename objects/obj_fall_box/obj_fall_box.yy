@@ -2,7 +2,7 @@
     "id": "9ddb774b-99d5-4b54-9c66-073de174d56e",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_white_box",
+    "name": "obj_fall_box",
     "eventList": [
         {
             "id": "3b607f23-6afe-48ab-80f1-38c6284c8610",

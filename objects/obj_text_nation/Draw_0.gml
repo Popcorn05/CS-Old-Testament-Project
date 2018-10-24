@@ -34,11 +34,17 @@ if x = 6016 && y = 480 && obj_angel.image_alpha = 1 && next = 0
 		alarmset = 1
 	}
 }
-else
+if x = 6016 && y = 480 && nexttext = 1
 {
-	if x = 6016 && y = 480
-	{
-		layer = layer_get_id("text2")
-		draw_text((camera_get_view_x(view_camera[0]) + camera_get_view_width(view_camera[0]))/2, ((camera_get_view_y(view_camera[0]) + camera_get_view_height(view_camera[0]))/2) - 30, "Many, many years later, Abraham's great grandson Joseph was blessed with the power of interpreting dreams")
-	}
+	layer = layer_get_id("text2")
+	draw_text(5855, 610 - 160, "Many, many years later Abraham's great grandson,")
+	draw_text(5855, 610 - 120, "Joseph, was blessed with the power of interpreting dreams.")
+	draw_text(5855, 610 - 80, "He was favoured by his father, and this filled his brothers with envy.")
+	draw_text(5855, 610 - 40, "Because of this, they tricked Joseph, and sold him into slavery.")
+	draw_text(5855, 610, "However, because of the gift God had given him,")
+	draw_text(5855, 610 + 40, "Joseph rose up to become the prime minister of Egypt.")
+	draw_text(5855, 610 + 80, "When his brothers came to beg for food, he forgave them,")
+	draw_text(5855, 610 + 120, "The Egyptian's memories are short, however, and Joseph was soon forgotten.")
+	draw_text(5855, 610 + 160, "This is why, 400 years later, the Israelites find themselves as the slaves of Egypt.")
+	lasttext = 1
 }
