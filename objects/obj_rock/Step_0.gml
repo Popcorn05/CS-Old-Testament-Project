@@ -1,7 +1,10 @@
-image_xscale = size
-image_yscale = size
-y += size
-size += 0.03
+if obj_baby.gameover != 1 && obj_redeemed_box.image_alpha = 0
+{
+	image_xscale = size
+	image_yscale = size
+	y += size
+	size += 0.05
+}
 
 if y > 384
 {
