@@ -1,4 +1,4 @@
-if keyboard_check(vk_left) != true && keyboard_check(vk_right) != true
+ if keyboard_check(vk_left) != true && keyboard_check(vk_right) != true
 {
 	sprite_index = spr_adam
 }

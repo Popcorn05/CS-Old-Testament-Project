@@ -1,4 +1,4 @@
-   if obj_fall_box.text2 = 1
+if obj_fall_box.text2 = 1
 {
 	view_visible[0] = 0
 	view_visible[1] = 1

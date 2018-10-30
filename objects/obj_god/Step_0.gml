@@ -11,7 +11,7 @@ if x > 1590
 	direction = 180
 }
 
-if obj_fall_box.image_alpha = 0 && set_alarm = 0
+if obj_fall_box.draw = 0 && set_alarm = 0
 {
 	alarm[0] = 210
 	set_alarm = 1

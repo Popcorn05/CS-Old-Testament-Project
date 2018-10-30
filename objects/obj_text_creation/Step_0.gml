@@ -51,9 +51,9 @@ else { //if current character is more than the amount in the current message
 
 if room = rm_fall
 {
-	if message_current = message_end
+	if message_current = message_end && obj_god.discover != 1
 	{
-		obj_fall_box.image_alpha = 0
+		obj_fall_box.draw = 0
 		view_visible[0] = 1
 		view_visible[1] = 0
 	}
