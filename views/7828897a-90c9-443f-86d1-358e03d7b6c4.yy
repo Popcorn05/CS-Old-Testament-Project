@@ -7,7 +7,8 @@
         "0535050c-acef-4a77-b26f-d5888b16070e",
         "6e359c66-474f-419c-83d6-506b0d8e1272",
         "52e78ff6-1d5b-4b52-aa26-5aee82c3be41",
-        "5cc3ded8-37f1-4439-9224-da9f0962e5ff"
+        "5cc3ded8-37f1-4439-9224-da9f0962e5ff",
+        "e7e90ad9-dbbf-43ff-9d72-095ab3eb35a5"
     ],
     "filterType": "GMSprite",
     "folderName": "Law",
