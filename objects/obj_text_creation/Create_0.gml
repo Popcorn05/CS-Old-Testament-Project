@@ -11,7 +11,9 @@ message[7] = "He created them in his own image so they could care for his creati
 message[8] = "He called them Adam and Eve, and He called them GOOD.";
 message[9] = "He made a garden for them to care for,";
 message[10] = "And he rested.";
-message_end = 10;
+message[11] = "For every house is built by someone, but God is the builder of everything.";
+message[12] = "Hebrews 3:4";
+message_end = 12;
 }
 if room = rm_fall
 {

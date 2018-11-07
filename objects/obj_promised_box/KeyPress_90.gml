@@ -1,1 +1,4 @@
-draw = 0
+if draw = 1
+{
+	draw = 0
+}

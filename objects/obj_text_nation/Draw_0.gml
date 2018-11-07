@@ -10,19 +10,19 @@ if x = 1184 && y = 2784
 	draw_text(x, y, "Abram trusted God, and left his home with his wife Sarai to go to the land God had chosen.")
 }
 
-if x = 2016 && y = 2880
+if x = 1984 && y = 2880
 {
-	draw_text(x, y, "God changed their names to Abraham and Sarah, Abraham meaning 'Father of many'.")
+	draw_text(x, y, "'By faith he made his home in the promised land  like a stranger in a foreign country; he lived in tents,")
 }
 
 if x = 2592 && y = 2944
 {
-	draw_text(x, y, "God fulfilled his promise to Abraham, and Sarah gave birth to a son who they named Isaac.")
+	draw_text(x, y, "as did Isaac and Jacob, who were heirs with him of the same promise.' (Hebrews 11:9)")
 }
 
 if x = 4448 && y = 2560
 {
-	draw_text(x, y, "To test Abraham's faith, God commanded him to sacrifice his only son.")
+	draw_text(x, y, "God gave Abraham a son called Isaac. He then commanded him to sacrifice this son.")
 }
 
 if x = 6016 && y = 480 && obj_angel.image_alpha = 1 && next = 0
