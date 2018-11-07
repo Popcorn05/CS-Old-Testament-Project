@@ -1,4 +1,4 @@
-if room = rm_creation
+ if room = rm_creation
 {
 	if (characters < message_length) { //if current character count is less than the amount in current message* 
 		hold = keyboard_check(ord("Z")); //hold is true or false if we hold 'Z' or not
