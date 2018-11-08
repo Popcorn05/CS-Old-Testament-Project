@@ -7,7 +7,9 @@
         "e341d7c6-517b-4dc8-bf9f-91c60da80969",
         "05e9b1f7-9199-4bc4-aae5-41f104faaedf",
         "768b2045-99f6-44b4-aba4-3a80c4edeac6",
-        "9201e44a-8650-48a5-b321-dd1c897b40c7"
+        "9201e44a-8650-48a5-b321-dd1c897b40c7",
+        "798d81f8-aec5-4325-a98e-053726e1a2c2",
+        "ed75d627-40b0-44b6-88fc-8fe193350ff6"
     ],
     "filterType": "GMSprite",
     "folderName": "Resolution",

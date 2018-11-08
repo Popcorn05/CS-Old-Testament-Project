@@ -10,7 +10,8 @@
         "63fc86d0-f3af-4b30-b645-e1bfad61766c",
         "f0dbf2f6-2cbc-4899-9a17-f9a6be0ea5f2",
         "83610098-7aa6-4d06-b80c-d5678d547129",
-        "11c5a5be-8e0b-429b-aa34-67c8d9be53b2"
+        "11c5a5be-8e0b-429b-aa34-67c8d9be53b2",
+        "1841ee81-cef0-4342-ae3d-e4c4b3bdf3bc"
     ],
     "IsDnD": false,
     "layers": [
@@ -43,9 +44,35 @@
         },
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "stones",
+            "id": "c39a700d-5a86-4d8f-a6c8-d0a224221e3c",
+            "depth": 100,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "instances": [
+{"name": "inst_30A31748","id": "1841ee81-cef0-4342-ae3d-e4c4b3bdf3bc","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_30A31748","objId": "72f56adc-3d8d-4ac3-b1ee-9e1b0c6cf284","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 352,"y": 128}
+            ],
+            "layers": [
+
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "userdefined_depth": false,
+            "visible": true
+        },
+        {
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "goliath",
             "id": "06f82353-8c12-4bbe-b893-3790285748b4",
-            "depth": 100,
+            "depth": 200,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -71,7 +98,7 @@
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "backround",
             "id": "325df96b-1706-42a5-8b11-a45ec1ab9665",
-            "depth": 200,
+            "depth": 300,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -100,7 +127,7 @@
             "animationFPS": 15,
             "animationSpeedType": "0",
             "colour": { "Value": 4278190080 },
-            "depth": 300,
+            "depth": 400,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
