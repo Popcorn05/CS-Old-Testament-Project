@@ -1,10 +1,10 @@
 draw_set_halign(fa_center);
-draw_set_font(fnt_story_smaller);
 draw_set_colour(c_black);
 
 if draw = 1
 {
 	draw_self();
+	draw_set_font(fnt_story_smaller);
 	draw_text(x, y - 120, "After the rule of the Judges, the Israelites pleaded for a king to lead them into battle.")
 	draw_text(x, y - 80, "Even though the Israelites were supposed to be unique, God relented and had Samuel anoint a king.")
 	draw_text(x, y - 40, "This king, Saul, has no heart for God, and throws Israel into chaos. God then anoints David.");

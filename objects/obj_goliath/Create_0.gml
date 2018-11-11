@@ -4,3 +4,4 @@ movespeed = 5;
 cooldown = 0
 life = 5
 hitcooldown = 0
+alarmset = 0

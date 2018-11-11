@@ -32,7 +32,8 @@ if hitcooldown > 0
 	hitcooldown -= 1
 }
 
-if life = 0
+if life = 0 && alarmset = 0
 {
-	instance_destroy();
+	alarm[0] = 90
+	alarmset = 1
 }
