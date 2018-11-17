@@ -1,4 +1,4 @@
-  draw_self();
+draw_self();
 if gamestart = 0
 {
 	draw_set_font(fnt_story_smaller)

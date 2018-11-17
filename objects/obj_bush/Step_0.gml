@@ -1,5 +1,5 @@
-if obj_fall_box.image_alpha = 0 && text = 0
+if obj_fall_box.draw = 0 && text = 0
 {
-	alarm[0] = 510
+	alarm[0] = 450
 	text = 1
 }
