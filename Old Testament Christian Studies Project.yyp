@@ -295,6 +295,14 @@
             }
         },
         {
+            "Key": "32b627dd-ca0d-4203-93e9-abcc79d0c7fb",
+            "Value": {
+                "id": "41c4cf8a-bd31-44f9-a089-852dc569afb8",
+                "resourcePath": "sprites\\spr_ad\\spr_ad.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "33a7919b-b9c4-4183-9ac6-c99286a84033",
             "Value": {
                 "id": "895a413f-188b-43f4-9a6c-cab0507b1dd4",
@@ -508,14 +516,6 @@
                 "id": "50238081-d7d8-4c55-9600-ec4f53f22f93",
                 "resourcePath": "objects\\obj_water1\\obj_water1.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "58a97f9a-b73a-4e88-b294-2c6a4bfa78ad",
-            "Value": {
-                "id": "60b7f2db-71bb-4b60-96ce-66d7e95a88c7",
-                "resourcePath": "sprites\\spr_jesus\\spr_jesus.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -756,6 +756,14 @@
                 "id": "3d4d530f-bc54-47e7-ad91-d7d6e106d301",
                 "resourcePath": "sprites\\spr_creation\\spr_creation.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "883951d4-45f8-4522-ac17-317c22307c9f",
+            "Value": {
+                "id": "e10422a7-a3ab-47ed-bd68-fa996ce1e1f1",
+                "resourcePath": "objects\\obj_ad\\obj_ad.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1260,6 +1268,14 @@
                 "id": "fab7c747-e427-45ce-bbde-6683aa21179d",
                 "resourcePath": "views\\f27f2a6d-c323-41db-bcd4-377694348e7c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f564024a-5e53-40c9-b0bb-5983d4e2f640",
+            "Value": {
+                "id": "43b3ae64-9b41-4f46-ac15-3432aa95c060",
+                "resourcePath": "rooms\\rm_epilogue2\\rm_epilogue2.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
