@@ -1,1 +1,4 @@
-draw = 0
+if cooldown = 1
+{
+	draw = 0
+}
